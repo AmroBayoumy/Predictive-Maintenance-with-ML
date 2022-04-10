@@ -36,18 +36,18 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 
 ### Project Files:
 
-- #### [README](https://github.com/Samimust/predictive-maintenance/blob/master/README.md)
+- #### [README]https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/blob/main/README.md)
 
-- #### [Data Wrangling](https://github.com/Samimust/predictive-maintenance/blob/master/Data%20Wrangling.ipynb)
+- #### [Data Wrangling](https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/blob/main/Data%20Wrangling.ipynb)
 
-- #### [Exploratory Data Analysis](https://github.com/Samimust/predictive-maintenance/blob/master/Exploratory%20Data%20Analysis.ipynb)
+- #### [Exploratory Data Analysis](https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/blob/main/Exploratory%20Data%20Analysis.ipynb)
 
-- #### [Regression Modeling](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Regression.ipynb)
+- #### [Regression Modeling](https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/blob/main/Model%20Selection%20-%20Regression.ipynb)
 
-- #### [Binary Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
+- #### [Binary Classification](https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/blob/main/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
 
-- #### [Multiclass Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
+- #### [Multiclass Classification](https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/blob/main/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
 
-- #### [Project Data Folder](https://github.com/Samimust/predictive-maintenance/tree/master/data)
+- #### [Project Data Folder](https://github.com/AmroBayoumy/Predictive-Maintenance-with-ML/tree/main/Data)
 
 
